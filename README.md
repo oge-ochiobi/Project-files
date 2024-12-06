@@ -14,6 +14,9 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and an aspiring Data
 
 
 🗂️ Portfolio Highlights  
+-🛒 Nana SuperMarket Sales Analysis
+  Description: Analyzed a supermarket sales data for a 3months period to generate insights and recommendationds on business decisions using Ms Excel to clean the data, analyze and create visualizations to understand business processes better. Created a powerpoint slide for presentataions to share findings with stakeholders. 
+  
 -📊 Employee Wellness Dashboard  
 Description: Created interactive dashboards to monitor and analyze employee stress management programs.  
 Tools: Power BI, SQL  
